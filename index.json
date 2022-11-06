@@ -404,6 +404,7 @@
       "Safe",
       "sbus",
       "SBUS fast",
+      "schmufu",
       "settings",
       "shames",
       "Smart",
@@ -908,6 +909,24 @@
         "defaults",
         "reset",
         "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/schmufu_fpv.txt",
+      "hash": "e93db1d241943a3f77f131e48e1462686267bdfd6324fcfb27442614594a682b",
+      "title": "Schmufu FPV 4.3 OSD settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD",
+        "schmufu"
       ],
       "author": "Betaflight",
       "priority": 0
