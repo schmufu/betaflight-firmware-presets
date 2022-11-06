@@ -1,10 +1,10 @@
-#$ TITLE: Schmufu FPV 4.3 OSD settings
+#$ TITLE: Schmufu FPV - Betaflight 4.3 OSD settings
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: defaults, reset, OSD, schmufu
 #$ AUTHOR: Betaflight
-#$ DESCRIPTION: Sets the OSD values for Betaflight 4.3
+#$ DESCRIPTION: Sets the OSD values from schmufu-fpv for Betaflight 4.3
 
 set osd_units = METRIC
 set osd_warn_arming_disable = ON
